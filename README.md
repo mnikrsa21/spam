@@ -12,7 +12,7 @@ apt install pip2 -y
 ```bash
 pip2 install -r requirements.txt
 ```
-if pip2 is can't install ( on ubuntu, etc ) you can install with using
+if pip2 is can't install ( on ubuntu, etc ) you can install with using :
 ```bash
 wget https://bootstrap.pypa.io/pip/2.7/get-pip.py
 ```
