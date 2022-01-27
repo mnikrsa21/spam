@@ -1,14 +1,14 @@
 # Panduan install
--```bash
+```bash
 apt update -y && apt upgrade -y
 ```
--```bash
+```bash
 apt install python2
 ```
--```bash
+```bash
 apt install pip2
 ```
--```bash
+```bash
 pip2 install -r requirements.txt
 ```
 # Setting config
