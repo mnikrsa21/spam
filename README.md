@@ -34,5 +34,7 @@ python2 get-pip.py
 ```bash
 python2 mail.py
 ```
-
-This tool for educational purpose only!
+# Note and Risk
+- Account may be suspended due to spam
+- You can recode it and learn how it works
+- This tool for educational purpose only!
