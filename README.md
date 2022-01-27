@@ -1,7 +1,7 @@
 # Panduan install
 - Open terminal and type :
 ```bash
-apt update -y && apt upgrade -y
+  apt update -y && apt upgrade -y
 ```
 ```bash
 apt install python2 -y
