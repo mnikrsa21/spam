@@ -1,5 +1,5 @@
 # Panduan install
-- apt update -y && apt upgrade -y
+```txt apt update -y && apt upgrade -y ```
 - apt install python2
 - apt install pip2
 - pip2 install -r requirements.txt
