@@ -18,7 +18,6 @@ wget https://bootstrap.pypa.io/pip/2.7/get-pip.py
 ```bash
 python2 get-pip.py
 ```
-python2 -m install pip
 # Setting config
 - Open file mail.py
 - Ganti value dari variabel :
