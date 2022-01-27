@@ -1,4 +1,5 @@
 # Panduan install
+- Open terminal and type :
 ```bash
 apt update -y && apt upgrade -y
 ```
