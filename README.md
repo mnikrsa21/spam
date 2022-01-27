@@ -31,8 +31,8 @@ python2 get-pip.py
 - 1-11 send 1-11 message
 - unli send unlimited message
 # Run script
-- python2 mail.py
-
-```txt
-This tool for educational purpose only!
+```bash
+python2 mail.py
 ```
+
+This tool for educational purpose only!
